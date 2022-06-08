@@ -1,2 +1,2 @@
 # mapreduce-go
-MIT 6.824 lab1
+MIT 6.824
